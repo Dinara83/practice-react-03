@@ -4,7 +4,7 @@ import Layout from './Layout/Layout';
 import HomePage from 'pages/HomePage';
 import EventsPage from 'pages/EventsPage';
 import EventsSubPage from 'pages/EventsSubPage/EventsSubPage';
-import 
+import SearchPage from 'pages/SearchPage/SearchPage';
 
 export const App = () => {
   return (
